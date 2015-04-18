@@ -2,4 +2,4 @@
 
 a cube with image
 
-![image](https://github.com/Leolusir/android-opengles-3d/img.jpeg)
+![image](https://github.com/Leolusir/android-opengles-3d/blob/master/img.jpeg)
